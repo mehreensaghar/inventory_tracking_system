@@ -1,0 +1,1 @@
+I approached this case study by first solving the problem for a single store and then gradually scaling it to support many stores. At each stage, I focused on keeping the system organized, easy to manage, and ready for future growth. The idea was to build something simple first, then evolve it step by step.
